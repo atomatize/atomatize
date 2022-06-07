@@ -1,4 +1,4 @@
-### Senior Data Analyst at [dbt Labs](https://www.getdbt.com/)
+### About Me
 
 <!--
 **atom-accelerator/atom-accelerator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
